@@ -1,2 +1,2 @@
 # kontagion
-requires XQuartz and freeGLUT to run
+MacOS requires XQuartz and freeGLUT to run
